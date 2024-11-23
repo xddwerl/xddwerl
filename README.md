@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m mostly interested in: C++
+🌱 I’m mostly interested in: Rust
 
 📫 Discord: werl1337
 
